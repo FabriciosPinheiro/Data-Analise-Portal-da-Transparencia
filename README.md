@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/pandas.webp" width="50%">
+  <img src="Image/pandas.webp" width="50%">
 </p>
 
 ## 📊 Analisando Dados de Viagens do Portal da Transparência
