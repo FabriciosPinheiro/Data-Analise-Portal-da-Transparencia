@@ -18,10 +18,10 @@ Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos
 
 ### 📂 Estrutura do Projeto
 
-📂 Projeto_Analise_Dados  
+📂 Data-Analise-Portal-da-Transparencia 
  ┣ 📂 Datasets/               # Conjunto de dados utilizados  
- ┣ 📂 Notebooks/              # Cadernos Jupyter com as análises  
- ┣ 📜 analise.py              # Script principal de análise  
+ ┣ 📂 Image    /              # Imagens e figuras  
+ ┣ 📜 analise.ipynb           # Script principal de análise  
  ┣ 📜 README.md               # Documentação do projeto  
 
 ### 🔍 Fonte dos Dados
