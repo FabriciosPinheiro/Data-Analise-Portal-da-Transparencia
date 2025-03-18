@@ -18,7 +18,6 @@ Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos
 
 ### 📂 Estrutura do Projeto
 
-📂 Data-Analise-Portal-da-Transparencia 
  ┣ 📂 Datasets/               # Conjunto de dados utilizados  
  ┣ 📂 Image    /              # Imagens e figuras  
  ┣ 📜 analise.ipynb           # Script principal de análise  
